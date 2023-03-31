@@ -180,6 +180,7 @@
   text-decoration: none;
 }
 .index-link03 {
+  align-self: center;
   margin-top: var(--dl-space-space-halfunit);
   margin-left: var(--dl-space-space-unit);
   margin-right: var(--dl-space-space-unit);
