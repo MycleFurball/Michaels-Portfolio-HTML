@@ -163,7 +163,7 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.index-navlink1 {
+.index-link01 {
   margin-top: var(--dl-space-space-halfunit);
   margin-left: var(--dl-space-space-unit);
   margin-right: var(--dl-space-space-unit);
@@ -171,7 +171,7 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.index-link01 {
+.index-link02 {
   color: #100202;
   margin-top: var(--dl-space-space-halfunit);
   margin-left: var(--dl-space-space-unit);
@@ -179,14 +179,14 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.index-link02 {
+.index-link03 {
   margin-top: var(--dl-space-space-halfunit);
   margin-left: var(--dl-space-space-unit);
   margin-right: var(--dl-space-space-unit);
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.index-link03 {
+.index-link04 {
   display: contents;
 }
 .index-component {
@@ -264,7 +264,7 @@
 .index-text02 {
   margin-bottom: 8px;
 }
-.index-link04 {
+.index-link05 {
   display: contents;
 }
 .index-follow-container {
@@ -283,21 +283,21 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.index-link05 {
+.index-link06 {
   display: contents;
 }
 .index-icon05 {
   width: 24px;
   height: 24px;
 }
-.index-link06 {
+.index-link07 {
   display: contents;
 }
 .index-icon07 {
   width: 24px;
   height: 24px;
 }
-.index-link07 {
+.index-link08 {
   display: contents;
 }
 .index-icon09 {
@@ -331,7 +331,7 @@
   height: 56px;
   align-self: flex-start;
 }
-.index-link08 {
+.index-navlink1 {
   display: contents;
 }
 .index-component2 {
@@ -452,7 +452,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.index-navlink2 {
+.index-text12 {
   text-decoration: none;
 }
 .index-container4 {
@@ -470,7 +470,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.index-text12 {
+.index-text13 {
   padding: var(--dl-space-space-halfunit);
 }
 .index-icons-container1 {
@@ -576,7 +576,7 @@
   .index-link15 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .index-navlink2 {
+  .index-text12 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .index-container4 {
