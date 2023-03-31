@@ -157,34 +157,22 @@
   justify-content: space-between;
 }
 .index-navlink {
-  margin-top: var(--dl-space-space-halfunit);
-  margin-left: var(--dl-space-space-unit);
-  margin-right: var(--dl-space-space-unit);
-  margin-bottom: var(--dl-space-space-doubleunit);
+  margin: var(--dl-space-space-halfunit);
   text-decoration: none;
 }
 .index-link01 {
-  margin-top: var(--dl-space-space-halfunit);
-  margin-left: var(--dl-space-space-unit);
-  margin-right: var(--dl-space-space-unit);
+  margin: var(--dl-space-space-halfunit);
   border-radius: var(--dl-radius-radius-radius4);
-  margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
 .index-link02 {
   color: #100202;
-  margin-top: var(--dl-space-space-halfunit);
-  margin-left: var(--dl-space-space-unit);
-  margin-right: var(--dl-space-space-unit);
-  margin-bottom: var(--dl-space-space-doubleunit);
+  margin: var(--dl-space-space-halfunit);
   text-decoration: none;
 }
 .index-link03 {
-  align-self: center;
-  margin-top: var(--dl-space-space-halfunit);
-  margin-left: var(--dl-space-space-unit);
-  margin-right: var(--dl-space-space-unit);
-  margin-bottom: var(--dl-space-space-doubleunit);
+  margin: var(--dl-space-space-halfunit);
+  text-align: center;
   text-decoration: none;
 }
 .index-link04 {
