@@ -167,15 +167,15 @@
   text-decoration: none;
 }
 .index-link02 {
-  color: #100202;
-  margin: var(--dl-space-space-halfunit);
-  align-self: flex-start;
-  text-decoration: none;
-}
-.index-link03 {
   margin: var(--dl-space-space-halfunit);
   align-self: flex-start;
   text-align: center;
+  text-decoration: none;
+}
+.index-link03 {
+  color: #100202;
+  margin: var(--dl-space-space-halfunit);
+  align-self: flex-start;
   text-decoration: none;
 }
 .index-link04 {
