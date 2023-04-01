@@ -39,6 +39,15 @@
   flex: initial;
   align-self: center;
 }
+.place-card-root-class-name2 {
+  align-self: flex-start;
+}
+.place-card-root-class-name3 {
+  align-self: center;
+}
+.place-card-root-class-name4 {
+  align-self: flex-start;
+}
 @media(max-width: 991px) {
   .place-card-root-class-name1 {
     flex: initial;
