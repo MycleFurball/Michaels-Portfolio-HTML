@@ -85,9 +85,12 @@
   align-self: center;
 }
 .place-card-root-class-name2 {
-  align-self: flex-start;
+  align-self: center;
 }
 .place-card-root-class-name3 {
+  left: 349px;
+  bottom: -30px;
+  position: absolute;
   align-self: center;
 }
 .place-card-root-class-name4 {
@@ -350,6 +353,7 @@
   width: 100%;
   display: flex;
   grid-gap: var(--dl-space-space-doubleunit);
+  position: relative;
   flex-wrap: wrap;
   max-width: 1000px;
   margin-top: var(--dl-space-space-doubleunit);
